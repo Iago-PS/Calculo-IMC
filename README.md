@@ -6,10 +6,15 @@ Projeto desenvolvido para criar uma forma de calcular o IMC(Indice de Massa Corp
 
 ## EX:
 imc >= 39.9  (Obesidade grau 3).
+
 imc >= 34.9  (Obesidade grau 2).
+
 imc >= 29.9  (Obesidade grau 1).
+
 imc >= 24.9  (Sobrepeso).
+
 imc >= 18.5  (peso normal).
+
 imc < 18.5   (Abaixo do peso).
 
 
