@@ -1,4 +1,4 @@
-## 🧮Calculadora de IMC
+# Calculo-IMC
 
 Projeto desenvolvido para criar uma forma de calcular o IMC(Indice de Massa Corporal) de forma simples e rapida, ja informando seu nivel de IMC.
 
